@@ -1,0 +1,39 @@
+﻿{
+    "profiles": {
+        "RealEstate":{
+           "commandName":"RealEstate",
+            "launchBrowse": false,
+            "enviromentVariables":{
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "applicationUrl":"http://localhost:5080"
+        }
+    },
+  "Kestrel": {
+    "EndPoints": {
+      "Http": {
+        "Url": "http://localhost:5080"
+      }
+/**
+      "HttpsInlineCertFile": {
+        "Url": "https://localhost:5006",
+        "Certificate": {
+          "Path": "cert.pfx",
+          "Password": "<cert password>"
+        }
+      },
+
+      "HttpsInlineCertStore": {
+        "Url": "https://localhost:5007",
+        "Certificate": {
+          "Subject": "mysite",
+          "Store": "My",
+          "Location": "CurrentUser",
+          "AllowInvalid": "false" // Set to true to allow invalid certificates (e.g. self-signed)
+        }
+      }
+**/
+    }
+
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\e12\source\repos\RealEstate\RealEstate\bin\Debug\netcoreapp2.1\RealEstate.deps.json
+C:\Users\e12\source\repos\RealEstate\RealEstate\bin\Debug\netcoreapp2.1\RealEstate.runtimeconfig.json
+C:\Users\e12\source\repos\RealEstate\RealEstate\bin\Debug\netcoreapp2.1\RealEstate.runtimeconfig.dev.json
+C:\Users\e12\source\repos\RealEstate\RealEstate\bin\Debug\netcoreapp2.1\RealEstate.dll
+C:\Users\e12\source\repos\RealEstate\RealEstate\bin\Debug\netcoreapp2.1\RealEstate.pdb
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.csprojAssemblyReference.cache
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.RazorAssemblyInfo.cache
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.RazorAssemblyInfo.cs
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.AssemblyInfoInputs.cache
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.AssemblyInfo.cs
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.dll
+C:\Users\e12\source\repos\RealEstate\RealEstate\obj\Debug\netcoreapp2.1\RealEstate.pdb
