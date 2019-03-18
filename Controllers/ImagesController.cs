@@ -56,12 +56,12 @@ namespace RealEstate.Controllers
             }
             catch (AmazonS3Exception e)
             {
-                
+                Console.Write(e);
                 return StatusCode(500, e.Message+ e.StackTrace);
             }
             catch (Exception e)
             {
-                
+                Console.Write(e);
                 return StatusCode(500, e.Message+ e.StackTrace);
             }
         }
